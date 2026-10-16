@@ -1,0 +1,85 @@
+{
+  "logos": [
+    {
+      "id": "cufe",
+      "file": "cufe.png",
+      "source_url": "https://www.cufe.edu.cn/images/logo2.png",
+      "preparation": "Official emblem extracted from lockup; resized, original colors retained.",
+      "sha256": "e1729a44c40b58cc966d2b2ca9285f15a95df5b5cf64c48e75a6d5b2c024a48a"
+    },
+    {
+      "id": "cuhksz",
+      "file": "cuhksz.png",
+      "source_url": "https://admissions.cuhk.edu.cn/sites/default/files/styles/crop_freeform/public/2020-05/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20200528160434.png?itok=F7uGo0Xi",
+      "preparation": "Official emblem extracted from lockup; resized, original colors retained.",
+      "sha256": "c759a2b88393355f16aa5d999c020a2c62ee9bdec651c12e71eeea5b095a284a"
+    },
+    {
+      "id": "sjtu",
+      "file": "sjtu.png",
+      "source_url": "https://vi.sjtu.edu.cn/uploads/files/caf2f5045c47308250fab3812dfe2003-6896b91594f238b24e67696224948251.png",
+      "preparation": "Official asset; resized if necessary.",
+      "sha256": "0b44533809d2ae7fdb0c34d2c689a51de7779ab15a17cd13994d568afff87b96"
+    },
+    {
+      "id": "suat",
+      "file": "suat.png",
+      "source_url": "https://www.suat-sz.edu.cn/images/logo0605.png",
+      "preparation": "Official emblem extracted from lockup; resized, original colors retained.",
+      "sha256": "ee15fd27f478370fad521adba4815176bafece19593abb65667f8bb19ab3321c"
+    },
+    {
+      "id": "siat",
+      "file": "siat.png",
+      "source_url": "https://www.siat.ac.cn/images/szxjy-logoicon.png",
+      "preparation": "Official asset; resized if necessary.",
+      "sha256": "c8667ae5ca9e659d187bcb4d1c32605f3e35f02b924abd311834eb7ac24efdca"
+    },
+    {
+      "id": "pbcsf",
+      "file": "pbcsf.png",
+      "source_url": "https://www.pbcsf.tsinghua.edu.cn/new_index/images/logo.png",
+      "preparation": "Official emblem extracted from lockup; resized, original colors retained.",
+      "sha256": "cb0f221fca9d511a7784c79e0ba5f66e7fd07a97ccb164db921382fe7493b784"
+    },
+    {
+      "id": "shenwan",
+      "file": "shenwan.png",
+      "source_url": "https://www.swhysc.com/securityweb-eng/img/headlogo.ee48884c.png",
+      "preparation": "Official emblem extracted from lockup; resized, original colors retained.",
+      "sha256": "8475c1cb24627f4b188560129ad017da7431509a23ca4351a0d33b259e27513d"
+    },
+    {
+      "id": "kaggle",
+      "file": "kaggle.png",
+      "source_url": "https://www.kaggle.com/static/images/favicon-new.ico",
+      "preparation": "Official asset; resized if necessary.",
+      "sha256": "e7ea2e7c88458635e3787529bbb6ac20324f090a98491f417618f212b041140b"
+    },
+    {
+      "id": "janestreet",
+      "file": "janestreet.svg",
+      "source_url": "https://www.janestreet.com/assets/logo-icon-b8a206838d61e9232dd7d2ae67f12b4f35a494ac9ad0a7e4b1456b482849c977.svg",
+      "preparation": "Official asset; resized if necessary.",
+      "sha256": "b8a206838d61e9232dd7d2ae67f12b4f35a494ac9ad0a7e4b1456b482849c977"
+    },
+    {
+      "id": "taikang",
+      "file": "taikang.png",
+      "source_url": "https://www.taikang.com/_nuxt/logo-d_2x.CBkWmtZZ.png",
+      "preparation": "Official emblem extracted from lockup; resized, original colors retained.",
+      "sha256": "dc05caed341941cd190071caf8071192d009a92109ced7cf544ea22a6ed7f512"
+    },
+    {
+      "id": "tencent",
+      "file": "tencent.png",
+      "source_url": "https://www.tencent.com/wp-content/uploads/2022/12/logo@2x.png?2",
+      "preparation": "Official asset; resized if necessary.",
+      "sha256": "d458314fb499738ca77a8552146de83dfa23327acc4fa427b52da78a9979331c"
+    }
+  ],
+  "unavailable": [
+    "Hongqiang Taihe: no verified official logo supplied or located."
+  ],
+  "note": "Taikang uses the group brand emblem, not a separately verified technology-subsidiary logo."
+}
